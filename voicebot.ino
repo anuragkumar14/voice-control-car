@@ -86,6 +86,4 @@ backward();
 }
 }
 }
-a="";
-count=0;
 }
