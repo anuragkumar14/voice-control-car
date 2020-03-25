@@ -25,7 +25,6 @@ Components used:
 8. Mini breadboard
 9. Speed sensor with encoder wheel
 
-CIRCUIT DIAGRAM:
 
 
 
